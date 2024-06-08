@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=red-is-ded&label=Profile%20views&color=0e75b6&style=flat" alt="red-is-ded" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pixiebyte97" target="blank"><img src="https://img.shields.io/twitter/follow/pixiebyte97?logo=twitter&style=for-the-badge" alt="pixiebyte97" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ed_iz_Ded" target="blank"><img src="https://img.shields.io/twitter/follow/Ed_iz_Ded?logo=twitter&style=for-the-badge" alt="Ed_iz_Ded" /></a> </p>
 
 - 🔭 I’m currently working on [Persona AI.](https://persona-dating.com/) You can find a promo video about Persona AI [here.](https://youtu.be/sRiETHsXEw0)  For investments in this project and more information please feel free to visit the Angel Investment Network U.K. Our page is [here.](https://www.angelinvestmentnetwork.co.uk/business-proposals/revolutionary-ai-dating-15-1426513) 
 
