@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pixiebyte97" target="blank"><img src="https://img.shields.io/twitter/follow/pixiebyte97?logo=twitter&style=for-the-badge" alt="pixiebyte97" /></a> </p>
 
-- 🔭 I’m currently working on [Persona AI](https://www.angelinvestmentnetwork.co.uk/business-proposals/revolutionary-ai-dating-15-1426513) You can find more informatrion in the promo video at the bottom of the page. 
+- 🔭 I’m currently working on [Persona AI](https://www.angelinvestmentnetwork.co.uk/business-proposals/revolutionary-ai-dating-15-1426513) [You can find a promo video about Persona AI here](https://youtu.be/sRiETHsXEw0) 
 
 - 🔭 I was working on [Log Analysis and Automation](https://github.com/Red-is-Ded/Ed_Tobin_Amazing_Script)
 
@@ -39,4 +39,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=red-is-ded&show_icons=true&locale=en&layout=compact" alt="red-is-ded" /></p>
 
-<iframe src="https://www.angelinvestmentnetwork.co.uk/embed/1426513/468x60" width="468" height="60" frameborder="0"><p>Your browser does not support iframe</p></iframe>
