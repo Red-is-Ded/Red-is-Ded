@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pixiebyte97" target="blank"><img src="https://img.shields.io/twitter/follow/pixiebyte97?logo=twitter&style=for-the-badge" alt="pixiebyte97" /></a> </p>
 
-- 🔭 I’m currently working on [Persona AI](https://www.angelinvestmentnetwork.co.uk/business-proposals/revolutionary-ai-dating-15-1426513) You can find a promo video about Persona AI [here](https://youtu.be/sRiETHsXEw0) 
+- 🔭 I’m currently working on [Persona AI.](https://www.angelinvestmentnetwork.co.uk/business-proposals/revolutionary-ai-dating-15-1426513) You can find a promo video about Persona AI [here](https://youtu.be/sRiETHsXEw0) 
 
 - 🔭 I was working on [Log Analysis and Automation](https://github.com/Red-is-Ded/Ed_Tobin_Amazing_Script)
 
